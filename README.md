@@ -45,7 +45,7 @@ To try out aitk, follow these steps:
    To manually test functions as an API, run:
 
    ```
-   fastapi dev aitk/main.py
+   fastapi dev aitk/api.py
    ```
 
 2. CLI Testing:
